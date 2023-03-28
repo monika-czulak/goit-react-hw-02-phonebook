@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/monika-czulak.github.io/goit-react-hw-02-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/monika-czulak.github.io/goit-react-hw-02-phonebook/static/js/main.07d3183d.js",
+    "main.js": "/monika-czulak.github.io/goit-react-hw-02-phonebook/static/js/main.6a67ab53.js",
     "index.html": "/monika-czulak.github.io/goit-react-hw-02-phonebook/index.html",
     "main.7acaea2f.css.map": "/monika-czulak.github.io/goit-react-hw-02-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/monika-czulak.github.io/goit-react-hw-02-phonebook/static/js/main.07d3183d.js.map"
+    "main.6a67ab53.js.map": "/monika-czulak.github.io/goit-react-hw-02-phonebook/static/js/main.6a67ab53.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.6a67ab53.js"
   ]
 }
